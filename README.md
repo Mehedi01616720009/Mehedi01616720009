@@ -21,7 +21,14 @@ I'm passionate about building seemless web applications and robust API on differ
 <!-- Currently, diving deep into DevOps and cloud-native technologies. -->
 
 ## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,docker,aws,postgres)](https://skillicons.dev)
+**Frontend & Languages:**
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+
+**Backend:**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php)](https://skillicons.dev)
+
+**Databases:**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning
 - Next.js
