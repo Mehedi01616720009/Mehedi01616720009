@@ -22,12 +22,15 @@ I'm passionate about building seemless web applications and robust API on differ
 
 ## 🛠️ Languages and Tools
 **Frontend & Languages:**
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
 
 **Backend:**
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php)](https://skillicons.dev)
 
 **Databases:**
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning
