@@ -27,7 +27,7 @@ I'm passionate about building seemless web applications and robust API on differ
 
 **Backend:**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,go)](https://skillicons.dev)
 
 **Databases:**
 
