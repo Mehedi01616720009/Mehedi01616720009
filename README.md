@@ -23,7 +23,7 @@ I'm passionate about building seemless web applications and robust API on differ
 ## 🛠️ Languages and Tools
 **Frontend & Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs)](https://skillicons.dev)
 
 **Backend:**
 
@@ -33,16 +33,13 @@ I'm passionate about building seemless web applications and robust API on differ
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
-## 🌱 I’m currently learning
-- Next.js
-- Prisma
+**Databases Tool:**
 
-## 📈 GitHub Stats
-![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi01616720009&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=prisma,mongoose)](https://skillicons.dev)
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi01616720009@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hasan-mim-448b87322)
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername) -->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mehedi0009)
 
 ⚡ Fun fact: I once walked 12 miles to return my home!
